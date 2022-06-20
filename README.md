@@ -1,5 +1,5 @@
 # capacitace-meter-stm32
-capacitace meter using STM32F103RE using register level programming AKA bare metal for STM32F103RE 
+capacitance meter using STM32F103RE using register level programming AKA bare metal for STM32F103RE 
 i used charging method for measuring capacitance. 
 the circuit i used is shown below.
 the values that i got were close to the real capacitance that i measured using a victor 88c multimeter. any help in improving the code is appreciated.
